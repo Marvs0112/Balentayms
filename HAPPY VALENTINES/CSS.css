@@ -25,7 +25,7 @@ p {
     font-size: 9px;
     line-height: 1.2; /* Improved readability */
     text-align: justify;
-    background: url(bg.jpg);
+    background: url(image.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
